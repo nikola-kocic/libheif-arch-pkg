@@ -1,6 +1,6 @@
 pkgbase = libheif
 	pkgdesc = An HEIF and AVIF file format decoder and encoder
-	pkgver = 1.17.3
+	pkgver = 1.17.4
 	pkgrel = 1
 	url = https://github.com/strukturag/libheif
 	arch = x86_64
@@ -23,7 +23,7 @@ pkgbase = libheif
 	optdepends = dav1d: dav1d encoder
 	optdepends = rav1e: rav1e encoder
 	optdepends = svt-av1: svt-av1 encoder
-	source = https://github.com/strukturag/libheif/releases/download/v1.17.3/libheif-1.17.3.tar.gz
-	sha256sums = 8d5b6292e7931324f81f871f250ecbb9f874aa3c66b4f6f35ceb0bf3163b53ea
+	source = https://github.com/strukturag/libheif/releases/download/v1.17.4/libheif-1.17.4.tar.gz
+	sha256sums = 3619c092992eb5ccaf7795cbdc8ac70f96ab0f20fc5681fcef6ff5fec027a838
 
 pkgname = libheif
